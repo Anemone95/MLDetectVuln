@@ -1,0 +1,1 @@
+Automating Patching of Vulnerable Open-Source Software Versions in Application Binaries. NDSS2019
