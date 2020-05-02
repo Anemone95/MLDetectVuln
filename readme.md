@@ -1,3 +1,9 @@
+# AAAI 20
+
+## Order Matters: Semantic-Aware Neural Networks for Binary Code Similarity Detection
+
+利用AI算法解决大规模二进制程序函数相似性分析的问题，科恩实验室出的，光从题目上看跟“Neural Machine Translation Inspired Binary Code Similarity Comparison beyond Function Pairs”这一篇做的是一件事，待看完论文后比较两者区别。官方解读在 <https://cloud.tencent.com/developer/article/1551292>.
+
 # CCS18
 
 ## **LEMNA: Explaining Deep Learning based Security Applications.**
